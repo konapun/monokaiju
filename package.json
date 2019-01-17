@@ -2,6 +2,7 @@
     "name": "monokaiju",
     "displayName": "monokaiju",
     "description": "Permeatingly monokai",
+    "publisher": "konapun",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.30.0"
