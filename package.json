@@ -1,0 +1,21 @@
+{
+    "name": "monokaiju",
+    "displayName": "monokaiju",
+    "description": "Permeatingly monokai",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.30.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "monokaiju",
+                "uiTheme": "vs-dark",
+                "path": "./themes/monokaiju-color-theme.json"
+            }
+        ]
+    }
+}
