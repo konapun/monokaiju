@@ -1,6 +1,9 @@
 # Change Log
 All notable changes to the "monokaiju" extension will be documented in this file.
 
+## 0.2.1
+- Update screenie
+
 ## 0.2.0
 - Style more elements, including newly introduced elements from vscode 1.40
 
