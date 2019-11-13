@@ -1,6 +1,9 @@
 # Change Log
 All notable changes to the "monokaiju" extension will be documented in this file.
 
+## 0.3.0
+- Subtly darken greys, tune all greys towards green/blue to better match editor background
+
 ## 0.2.2
 - Update README
 
