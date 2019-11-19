@@ -6,4 +6,4 @@ cohesiveness throughout VS Code, staying up to date as newer versions of the
 editor bring more themable elements.
 
 ## Screenie
-![Theme Screenshot](./resources/monokaiju.png)
+![Theme Screenshot](./resources/monokaiju-0.3.2.png)

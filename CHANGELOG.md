@@ -1,6 +1,9 @@
 # Change Log
 All notable changes to the "monokaiju" extension will be documented in this file.
 
+## 0.3.2
+- Update screenie for real
+
 ## 0.3.1
 - Update screenie
 
